@@ -46,9 +46,9 @@ Column 2 - Green	D7
 
 🎥 Project Demonstration
 
-Traffic Light Control System demonstration video:
+Watch the Traffic Light Control System in action:
 
-Traffic_Light_Demo.mp4
+https://github.com/user-attachments/assets/0607f6a7-9226-4838-adea-b363febe04ee
 
 🎯 Learning Objectives
 
