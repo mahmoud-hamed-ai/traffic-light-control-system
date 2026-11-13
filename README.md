@@ -33,9 +33,16 @@ Column 2 - Green	D7
 * Platform: Arduino IDE
 * Microcontroller: Arduino Uno
 
-📸 Project Gallery
+## 📸 Project Gallery
 
-Project Photos
+### Project Photos
+
+![Traffic Light 1](Traffic_Light_1.jpg)
+![Traffic Light 2](Traffic_Light_2.jpg)
+![Traffic Light 3](Traffic_Light_3.jpg)
+![Traffic Light 4](Traffic_Light_4.jpg)
+![Traffic Light 5](Traffic_Light_5.jpg)
+![Traffic Light 6](Traffic_Light_6.jpg)
 
 🎥 Project Demonstration
 
